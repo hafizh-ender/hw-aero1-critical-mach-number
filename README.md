@@ -48,3 +48,5 @@ If the program is run successfully, the following figure will be generated:
 The program will ask for the value of incompressible Mach number $C_{p_o}$ and the value of the ratio of specific heats $\gamma$. After entering the values and pressing the `Calculate` key, the program will calculate the critical Mach number $M_\text{cr}$ and plot the critical Mach number curve.
 
 ![Example](pic/example.png)
+
+If somehow the program fails to run, please check the folder `junk` and open the `prototype.ipynb`. Insert the desired values of $C_{p_o}$ and $\gamma$ in the first cell, and run the second cell to get the critical Mach numbers $M_\text{cr}$. To plot the critical Mach number curve, run the fourth cell.
