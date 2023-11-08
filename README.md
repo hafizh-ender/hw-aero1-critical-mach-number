@@ -36,7 +36,13 @@ The following packages are required to run the program:
 - numpy
 - matplotlib
 
-To run the program, simply run the following command in the terminal:
+To run the program, first download and extract the repository or clone it with
+
+```
+git clone https://github.com/hafizh-ender/hw-aero1-critical-mach-number
+```
+
+Then, simply run the following command in the terminal:
 
 ```bash
 python main.py
